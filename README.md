@@ -1,0 +1,2 @@
+# LAZYNEZUMI
+reset trial
